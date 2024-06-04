@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 Jun 2024 12:02:16 at https://themewar.com/html/makeover/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themewar.com/html/makeover/index.html -O1 "C:\Users\syeda\OneDrive\Desktop\diwizon data\retrofit3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/css/owl.video.play.png (from https://themewar.com/html/makeover/css/owl.carousel.min.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/css/openhand.cur (from https://themewar.com/html/makeover/css/settings.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/css/closedhand.cur (from https://themewar.com/html/makeover/css/settings.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/assets/gridtile.png (from https://themewar.com/html/makeover/css/settings.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/assets/gridtile_white.png (from https://themewar.com/html/makeover/css/settings.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/assets/gridtile_3x3.png (from https://themewar.com/html/makeover/css/settings.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/assets/gridtile_3x3_white.png (from https://themewar.com/html/makeover/css/settings.css)
+12:05:52	Error: 	"Not Found" (404) at link https://themewar.com/html/makeover/assets/coloredbg.png (from https://themewar.com/html/makeover/css/settings.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 36 seconds : 270 links scanned, 261 files written (18331027 bytes overall) [16371724 bytes received at 75795 bytes/sec], 2912926 bytes transferred using HTTP compression in 93 files, ratio 26%, 90.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
